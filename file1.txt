@@ -1,2 +1,3 @@
 this is file1 from master branch
 This change is been made in GitHub Repo
+This change is made to understanf fetch and merge
